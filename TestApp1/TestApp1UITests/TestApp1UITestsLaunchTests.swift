@@ -1,9 +1,6 @@
 //
 //  TestApp1UITestsLaunchTests.swift
 //  TestApp1UITests
-//
-//  Created by Michael Fu on 2/14/23.
-//
 
 import XCTest
 
